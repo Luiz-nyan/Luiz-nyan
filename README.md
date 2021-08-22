@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+- 🌱 Eu estou atualmente estudando Front-End
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+- 💬 Ask me about ...
 
 <!--
 **Luiz-nyan/Luiz-nyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
