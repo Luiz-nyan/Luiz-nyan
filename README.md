@@ -1,14 +1,14 @@
 ### Hello! Me chamo Luiz Henrique 👋
 
-- 🌱 Eu estou atualmente estudando Front-End
+- 🌱 Eu estou atualmente estudando Front-End 
 - HTML e CSS
 - JavaScript
 
-#### 📫 How to reach me: 
--  **Email**:
-  - luish7878@gmail.com
-- **LinkedIn**
-  - 
+#### 📫 Entre em contato: 
+- **Email:** luish7878@gmail.com
+
+
+#### **LinkedIn:**
 
 
 <!--
