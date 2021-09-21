@@ -4,13 +4,12 @@
 - HTML e CSS
 - JavaScript
 
-- 📫 How to reach me: 
-Email:
-- luish7878@gmail.com
-- LinkedIn
-- 
-- ⚡ Fun fact: 
-- 💬 Ask me about ...
+#### 📫 How to reach me: 
+-  **Email**:
+  - luish7878@gmail.com
+- **LinkedIn**
+  - 
+
 
 <!--
 **Luiz-nyan/Luiz-nyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
